@@ -3,3 +3,4 @@ numpy==2.1.2
 seaborn==0.13.2
 matplotlib==3.9.2
 matplotlib-inline==0.1.7
+torch==2.5.1
