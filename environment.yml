@@ -301,4 +301,5 @@ dependencies:
       - matplotlib==3.10.8
       - sympy==1.13.1
       - torch==2.5.1+cu121
+  - shap
 prefix: C:\Users\mhama\miniconda3\envs\AIMB
